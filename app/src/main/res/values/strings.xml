@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PokeHints</string>
+    <string name="categories">Find Categories</string>
+    <string name="poke_hints">Poke Hints</string>
+    <string name="new_post">Make a new Post</string>
+    <string name="user_hint">Username</string>
+    <string name="post_hint">Post</string>
+    <string name="category_hint">Category</string>
+    <string name="submit">Post</string>
+</resources>
