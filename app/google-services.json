@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "50530128912",
+    "firebase_url": "https://pokehints-a78f0.firebaseio.com",
+    "project_id": "pokehints-a78f0",
+    "storage_bucket": "pokehints-a78f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50530128912:android:258242f3cfeb2280",
+        "android_client_info": {
+          "package_name": "com.example.guest.pokehints"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50530128912-0o2vb5rskiv0eb77jgggl7qf6fvquf86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guest.pokehints",
+            "certificate_hash": "9788B110816A115B73E0F05C0A1B985C08999C52"
+          }
+        },
+        {
+          "client_id": "50530128912-5p8lf8u49kvs7hdu56lveop2o2qvn5sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjZsszr8fIP6600iqGUn74QPPvmf-qXWo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50530128912-5p8lf8u49kvs7hdu56lveop2o2qvn5sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
